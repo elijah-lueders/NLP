@@ -9,6 +9,7 @@ packages = [{include = "nlp_local"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 black = {extras = ["jupyter"], version = "^23.7.0"}
+matplotlib = "^3.7.2"
 
 
 [build-system]
