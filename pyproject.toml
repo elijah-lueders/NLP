@@ -10,6 +10,8 @@ packages = [{include = "nlp_local"}]
 python = "^3.10"
 black = {extras = ["jupyter"], version = "^23.7.0"}
 matplotlib = "^3.7.2"
+transformers = "^4.33.1"
+datasets = "^2.14.5"
 
 
 [build-system]
