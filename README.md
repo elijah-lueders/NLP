@@ -3,7 +3,7 @@ Elijah's NLP Portfolio
 This is a repo for the work I do for CS195 during Fall '23 semester at Drake.
 
 **Dependencies are managed with Poetry**    
-To run locally you can start with:s
+To run locally you can start with:
 
 `poetry install` 
 ***
