@@ -1,9 +1,12 @@
 Elijah's NLP Portfolio
 ----------------------
 This is a repo for the work I do for CS195 during Fall '23 semester at Drake.
-To start on run locally you can start with
+
+**Dependencies are managed with Poetry**    
+To run locally you can start with:s
 
 `poetry install` 
+***
 ### Fortnight 1
 - [Elijah_F1_1_HuggingFace](Elijah_F1_1_HuggingFace.ipynb)
 - [Elijah_F1_2_DataEvaluation](Elijah_F1_2_DataEvaluation.ipynb)
