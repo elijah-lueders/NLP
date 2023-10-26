@@ -1,2 +1,3 @@
 **/.DS_Store
-manley_repo/.git
+# ignore directory manley_repo
+manley_repo
