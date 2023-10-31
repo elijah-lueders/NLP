@@ -940,6 +940,17 @@ files = [
 ]
 
 [[package]]
+name = "keras"
+version = "2.14.0"
+description = "Deep learning for humans."
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "keras-2.14.0-py3-none-any.whl", hash = "sha256:d7429d1d2131cc7eb1f2ea2ec330227c7d9d38dab3dfdf2e78defee4ecc43fcd"},
+    {file = "keras-2.14.0.tar.gz", hash = "sha256:22788bdbc86d9988794fe9703bb5205141da797c4faeeb59497c58c3d94d34ed"},
+]
+
+[[package]]
 name = "kiwisolver"
 version = "1.4.5"
 description = "A fast implementation of the Cassowary constraint solver"
@@ -2632,4 +2643,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "5259e092b859911ad80bde56b613bcb8d5e351a8e92c341834709db9a712f3ca"
+content-hash = "0896a178db39aa5aca0f34584d1881e8fbc2b5d843a35e28c156ae57f622e8a4"
