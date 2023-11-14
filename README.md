@@ -15,10 +15,11 @@ To run locally you can start with:
 - [Elijah_F1_3_RougeSummarization](Elijah_F1_3_RougeSummarization.ipynb)  
 
 **✅ Applied Exploration** *5 XP*
+- [Elijah_F1_Demo](Elijah_F1_Demo.ipynb)
 
 **Demo Day -- 9.12**  
-Group: Conrad, Saul, Katja, Caitlyn  
-I demoed an *Applied Exploration* for the group. The work can be found in [this notebook](Elijah_F1_Demo.ipynb)
+Who: Conrad / Saul / Katja / Caitlyn   
+What: Applied Exploration
 
 🏆 **10 XP TOTAL** 🏆
 
@@ -31,59 +32,64 @@ I demoed an *Applied Exploration* for the group. The work can be found in [this 
  - [Elijah_F2_3_QuestionAnswering](Elijah_F2_3_QuestionAnswering.ipynb)
  - [Elijah_F2_4_MarkovModel](Elijah_F2_4_MarkovModel.ipynb)
 
+**✅ Applied Exploration** *5 XP*
+
 **Demo Day -- 9.26**   
-Group: TBD   
-Work: [WIP: Elijah_F2_Demo](Elijah_F2_Demo.ipynb)
+I missed this day.
+
+🏆 **10 XP TOTAL** 🏆
+
 ***
- 
 ### Fortnight 3
 
 **✅ Core Practices** *5 XP*
 - [Elijah_F3_1_Tokenization](Elijah_F3_1_Tokenization.ipynb)
 - [Elijah_F3_2_AutoTokenization](Elijah_F3_2_AutoTokenization.ipynb)
-- [Elijah_F3_3_HMMPOS](Elijah_F3_3_HMMPOS.ipynb)  
+- [Elijah_F3_3_HMMPOS](Elijah_F3_3_HMMPOS.ipynb)
 
 **✅ Applied Exploration** *5 XP*
+- 
+**✅ Extended Implementation** *5 XP*
+- 
+**Demo Day -- 10.10**  
+Who: Riley / Gonzalo   
+What: Extended Implementation
 
-**Demo Day -- 9.12**  
-Group:   
-I  [this notebook](Elijah_F1_Demo.ipynb)
-
-🏆 **00 XP TOTAL** 🏆
+🏆 **15 XP TOTAL** 🏆
 
 ***
-
 ### Fortnight 4
 
 **✅ Core Practices** *5 XP*
 - [Elijah_F4_1_WordNet](Elijah_F4_1_WordNet.ipynb)
 - [Elijah_F4_2_WordSenseDisambiguation](Elijah_F4_2_WordSenseDisambiguation.ipynb)
-- [Elijah_F4_3_ContextFreeGrammars](Elijah_F4_3_ContextFreeGrammars.ipynb)  
+- [Elijah_F4_3_ContextFreeGrammars](Elijah_F4_3_ContextFreeGrammars.ipynb)
 
 **✅ Applied Exploration** *5 XP*
 
-**Demo Day -- 9.12**  
-Group: Jack / Riley / Gonzalo
-I  [this notebook](Elijah_F1_Demo.ipynb)
+**✅ Small Project Prototype** *5 XP*
 
-🏆 **00 XP TOTAL** 🏆
+**Demo Day -- 10.24**  
+Who: Jack / Riley / Gonzalo  
+What: Small Project 
+
+🏆 **15 XP TOTAL** 🏆
 
 ***
 ### Fortnight 5
 
 **✅ Core Practices** *5 XP*
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)  
+- [Elijah_F5_1_Parsing](Elijah_F5_1_Parsing.ipynb)
+- [Elijah_F5_2_MachineLearning](Elijah_F5_2_MachineLearning.ipynb)
+- [Elijah_F5_3_NeuralNetworks](Elijah_F5_3_NeuralNetworks.ipynb)
+- [Elijah_F5_4_Embeddings](Elijah_F5_4_Embeddings.ipynb)
 
 **✅ Applied Exploration** *5 XP*
+**Demo Day -- 11.7**  
+Group: Cooper / Jack / Saul 
+Work: [WIP: Elijah_F5_Demo](Elijah_F5_Demo.ipynb)
 
-**Demo Day -- 11.8**  
-Group: Cooper / Jack / Saul
-
-I  [this notebook](Elijah_F1_Demo.ipynb)
-
-🏆 **00 XP TOTAL** 🏆
+🏆 **10 XP TOTAL** 🏆
 
 ***
 ### Fortnight 6
@@ -95,9 +101,9 @@ I  [this notebook](Elijah_F1_Demo.ipynb)
 
 **✅ Applied Exploration** *5 XP*
 
-**Demo Day -- 9.12**  
-Group:   
-I  [this notebook](Elijah_F1_Demo.ipynb)
+**Demo Day -- 11.xx**  
+Group:  
+I demoed [this notebook](Elijah_F1_Demo.ipynb)
 
 🏆 **00 XP TOTAL** 🏆
 
@@ -105,15 +111,15 @@ I  [this notebook](Elijah_F1_Demo.ipynb)
 ### Fortnight 7
 
 **✅ Core Practices** *5 XP*
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)  
+- [Elijah_](Elijah_F.ipynb)
+- [Elijah_](Elijah_F.ipynb)
+- [Elijah_](Elijah_F.ipynb)  
 
 **✅ Applied Exploration** *5 XP*
 
-**Demo Day -- 9.12**  
-Group:   
-I  [this notebook](Elijah_F1_Demo.ipynb)
+**Demo Day -- 12.xx**  
+Group:  
+I demoed __. The work can be found [here](code).
 
 🏆 **00 XP TOTAL** 🏆
 
