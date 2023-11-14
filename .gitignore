@@ -1,3 +1,4 @@
 **/.DS_Store
 # ignore directory manley_repo
-manley_repo/**
+manley_repo
+images/encoder-decoder_detail.png
