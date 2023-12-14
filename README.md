@@ -36,6 +36,7 @@ What: Applied Exploration
  - [Elijah_F2_4_MarkovModel](Elijah_F2_4_MarkovModel.ipynb)
 
 **✅ Applied Exploration** *5 XP*
+ - [Found in F2_2](Elijah_F2_2_SummarizationTranslationQuestionAnswering.ipynb#top)
 
 **Demo Day -- 9.26**   
 I missed this day.
