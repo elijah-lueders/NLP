@@ -3,9 +3,12 @@ Elijah's NLP Portfolio
 This is a repo for the work I do for CS195 during Fall '23 semester at Drake.
 
 **Dependencies are managed with Poetry**    
-To run locally you can start with:
+To run locally you can :
+`git clone https://github.com/elijah-lueders/NLP.git` 
+`cd NLP`
+`poetry install`
+`poetry shell`
 
-`poetry install` 
 ***
 ### Fortnight 1
 
@@ -95,9 +98,10 @@ Work: [WIP: Elijah_F5_Demo](Elijah_F5_Demo.ipynb)
 ### Fortnight 6
 
 **✅ Core Practices** *5 XP*
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)
-- [Elijah_F](Elijah_F.ipynb)  
+- [Elijah_F6_1_NeuralLanguageModeling](Elijah_F6_1_NeuralLanguageModeling.ipynb)
+- [Elijah_F6_2_RecurrentNeuralNetworks](Elijah_F6_2_RecurrentNeuralNetworks.ipynb)
+- [Elijah_F6_3_EncoderDecoder](Elijah_F6_3_EncoderDecoder.ipynb)  
+- [Elijah_F6_4_LongTermRecurrence](Elijah_F6_4_LongTermRecurrence.ipynb)  
 
 **✅ Applied Exploration** *5 XP*
 
@@ -111,9 +115,9 @@ I demoed [this notebook](Elijah_F1_Demo.ipynb)
 ### Fortnight 7
 
 **✅ Core Practices** *5 XP*
-- [Elijah_](Elijah_F.ipynb)
-- [Elijah_](Elijah_F.ipynb)
-- [Elijah_](Elijah_F.ipynb)  
+- [Elijah_F7_1_TransferLearning](Elijah_F7_1_TransferLearning.ipynb)
+- [Elijah_F7_2_AttentionTransformers](Elijah_F7_2_AttentionTransformers.ipynb)
+- [Elijah_F7_3_ConversationalModels](Elijah_F7_3_ConversationalModels.ipynb)  
 
 **✅ Applied Exploration** *5 XP*
 
