@@ -112,11 +112,25 @@ I missed this day.
 - [Elijah_F5_4_Embeddings](Elijah_F5_4_Embeddings.ipynb)
 
 **✅ Applied Exploration** _5 XP_
+
+**✅ Medium Project Prototype** _10 XP_
+
+- [Job search app - frontend](https://github.com/elijah-lueders/jobs-frontend)
+- [Job search app - backend](https://github.com/elijah-lueders/jobs-backend)
+- I intended to make an app that utilized some aspect of NLP. Some ideas were:
+    - text summarization to come up with a better description
+    - predicting salary range based on description
+    - conversation-ish way of narrowing a search
+- I did not make it this far but I did get a React frontend created that talks to a backend I made and uses an API to get real current job data
+- I'm hoping this still constitutes a bit more than a small project as it did take some time so I called it a medium prototype for 10XP
+  <img src="images/jobs-app.png" alt="Jobs App" width="900">
+
+
 **Demo Day -- 11.7**  
 Group: Cooper / Jack / Saul
 Work: [WIP: Elijah_F5_Demo](Elijah_F5_Demo.ipynb)
 
-🏆 **10 XP TOTAL** 🏆
+🏆 **20 XP TOTAL** 🏆
 
 ---
 
@@ -131,11 +145,13 @@ Work: [WIP: Elijah_F5_Demo](Elijah_F5_Demo.ipynb)
 
 **✅ Applied Exploration** _5 XP_
 
-**Demo Day -- 11.xx**  
-Group:  
-I demoed [this notebook](Elijah_F1_Demo.ipynb)
+- [Applied exploration at the bottom of F6_1](Elijah_F6_1_NeuralLanguageModeling.ipynb)
 
-🏆 **00 XP TOTAL** 🏆
+
+**Demo Day -- 11.xx**  
+I demoed missed this day and didn't do a video
+
+🏆 **10 XP TOTAL** 🏆
 
 ---
 
@@ -147,12 +163,11 @@ I demoed [this notebook](Elijah_F1_Demo.ipynb)
 - [Elijah_F7_2_AttentionTransformers](Elijah_F7_2_AttentionTransformers.ipynb)
 - [Elijah_F7_3_ConversationalModels](Elijah_F7_3_ConversationalModels.ipynb)
 
-**✅ Applied Exploration** _5 XP_
-
 **Demo Day -- 12.xx**  
 Group:  
-I demoed \_\_. The work can be found [here](code).
+I had nothing to demo on this day. I was hoping to complete the jobs app to demo and didn't get it done. I also couldn't get like any code to work for this fortnite. I think it was the fact that I have been running everything on my local machine for this class and then the code for this fortnight just took soooo long to work on my machine. I was so strapped for time I just didn't try to reacclimate myself with Colab in order to run this. Hopefull I can still get 5 XP for my measly attempts but I understand if not.
 
-🏆 **00 XP TOTAL** 🏆
+🏆 **5 XP TOTAL** 🏆
 
 ---
+🏆🏆 **80 XP GRAND TOTAL** 🏆🏆
