@@ -18,7 +18,7 @@ To run locally you can :
 - [Elijah_F1_3_RougeSummarization](Elijah_F1_3_RougeSummarization.ipynb)  
 
 **✅ Applied Exploration** *5 XP*
-- [Elijah_F1_Demo](Elijah_F1_Demo.ipynb)
+- [Elijah_F1_AppliedExploration](Elijah_F1_AppliedExploration.ipynb)
 
 **Demo Day -- 9.12**  
 Who: Conrad / Saul / Katja / Caitlyn   
